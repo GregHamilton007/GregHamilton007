@@ -1,4 +1,12 @@
-### Hi there 👋
+# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+
+My Name is Greg Hamilton and I am a Biomedical & Electrical Engineering student at Carleton University in Ottawa, Canada :maple_leaf:
+
+I am an Agile Software Developer / Devops Engineer with experience in Machine Learning Projects and Mobile App Development.
+
+[![Gregs's github stats](https://github-readme-stats.vercel.app/api?username=GregHamilton007&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 <!--
 **GregHamilton007/GregHamilton007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
