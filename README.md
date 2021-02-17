@@ -3,9 +3,8 @@
 My Name is Greg Hamilton and I am a Biomedical & Electrical Engineering student at Carleton University in Ottawa, Canada :maple_leaf:
 
 I am an Agile Software Developer / Devops Engineer with experience in Machine Learning Projects and Mobile App Development.
-
-[![Gregs's github stats](https://github-readme-stats.vercel.app/api?username=GregHamilton007&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
+<!--[![Gregs's github stats](https://github-readme-stats.vercel.app/api?username=GregHamilton007&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+-->
 
 
 <!--
